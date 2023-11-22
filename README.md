@@ -4,8 +4,6 @@
 
 ## Run app
 ```bash
-    git clone https://github.com/harunguter/todo-app.git
-    cd todo-app
     docker-compose up
 ```
 
